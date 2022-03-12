@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ota-cdn.lenovo.com/firmware/2021112919529318-3315.zip
-  ROM_NAME: Generic
+  ROM_URL: https://dl.google.com/dl/android/aosp/coral-ota-sp2a.220305.012-a2a622e2.zip
+  ROM_NAME: Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
